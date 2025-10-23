@@ -42,6 +42,15 @@ Projeto completo de engenharia de dados utilizando serviços da AWS para ingest�
 
 ---
 
+### 4. 🍷 [Bevio & Co. – Dashboard de Vendas em Power BI](https://github.com/AnnandaMS/bevio-powerbi)
+
+Dashboard de vendas de uma empresa fictícia do setor de bebidas, com KPIs de receita total, metas e desempenho por produto e cliente.  
+O projeto foi desenvolvido em **Power BI Desktop**, com base de dados sintética, modelagem relacional e medidas DAX para cálculo de revenue, target achievement e insights executivos.  
+
+**Ferramentas:** Power BI, DAX, Excel  
+
+🔗 [Ver repositório](https://github.com/AnnandaMS/Bevio-PowerBI)
+
 ## 📬 Contato
 
 * 📧 Email: [annandams@gmail.com](mailto:annandams@gmail.com)
